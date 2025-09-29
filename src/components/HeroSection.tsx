@@ -96,7 +96,7 @@ const HeroSection = ({
             >
               <img
                 src={profileImage}
-                alt="Profile headshot"
+                alt="Profile headshothh"
                 className="w-full h-full object-cover object-[58%_3%]  rounded-full  transition-all duration-500 ease-in-out"
               />
             </motion.div>
