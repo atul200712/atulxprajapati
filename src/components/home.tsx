@@ -87,7 +87,7 @@ const HomePage = () => {
             <div className="md:w-1/3">
               <img
                 src="/src/components/assests/app.jpg"
-                alt="Atul Prajapati"
+                alt="Atul Prajapatipp"
                 className="rounded-lg w-full max-w-md mx-auto"
               />
             </div>
